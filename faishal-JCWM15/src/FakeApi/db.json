@@ -1,0 +1,21 @@
+{
+  "Occupation": [
+    {
+      "Pekerjaan": "PNS"
+    },
+    {
+      "Pekerjaan": "Swasta"
+    },
+    {
+      "Pekerjaan": "Jablay"
+    }
+  ],
+  "users": [
+    {
+      "nama": "isal",
+      "usia": "123",
+      "pekerjaan": "asda",
+      "id": 1
+    }
+  ]
+}
